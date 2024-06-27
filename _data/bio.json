@@ -1,31 +1,31 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "MantriPragada Aditya",
+    "label": "Graduate",
+    "picture": "https://github.com/vmantrip762000.png",
+    "email": "vmantrip@buffalo.edu",
+    "phone": "716-533-0788",
+    "website": "https://vmantrip762000.github.io",
+    "summary": "I am a Masters Graduate with M.S. in Data Science for Computer Science in the Department of Engineering and Applied Sciences at the University of Buffalo",
+    "location": { "address": "", "postalCode": "78613", "city": "Austin", "countryCode": "USA", "region": "Texas" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "vmantrip762000", "url": "http://github.com/vmantrip762000" },
+      { "network": "codechef", "username": "mvsadi5", "url": "https://www.codechef.com/users/mvsadi5" },
+      { "network": "leetcode", "username": "vmantrip", "url": "https://leetcode.com/u/vmantrip/" },
+      
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" },
+    { "name": "Deep Learning" },
+    { "name": "Data Structures and Algorithms" },
+    { "name": "System Design" },
+    { "name": "Competitive Programming" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "Probability and Statistics" ]
     },
     {
       "name": "Toolsets/OS",
@@ -34,11 +34,11 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "University of Buffalo - SUNY, Buffalo, NY",
+      "area": "Data Science for Computer Science",
+      "studyType": "M.S.",
+      "startDate": "08-30-2022",
+      "endDate": "02-01-2024",
       "courses": [
       ]
     }
