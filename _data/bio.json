@@ -56,8 +56,8 @@
       "institution": "University of Buffalo - SUNY, Buffalo, NY",
       "area": "Data Science for Computer Science",
       "studyType": "M.S.",
-      "startDate": "Aug 2022",
-      "endDate": "Feb 2024",
+      "startDate": "Aug2022",
+      "endDate": "Feb2024",
       "courses": [
       ]
     }
@@ -67,8 +67,8 @@
       "company": "University at Buffalo - Institute for Artificial Intelligence",
       "position": "Apprentice Data Analyst",
       "website": "",
-      "startDate": "2024-03-15",
-      "endDate": "2024-06-16",
+      "startDate": "March2024",
+      "endDate": "June2024",
       "summary": "Created, analyzed and reported data based research and findings in AI tools surveys",
       "highlights": [
         "Maintain, update, and oversee official department website and database",
@@ -79,8 +79,8 @@
       "company": "Geeks for Geeks",
       "position": "Technical Content Writer",
       "website": "https://www.geeksforgeeks.org/charsetdecoder-class-in-java/?ref=gcse",
-      "startDate": "2024-01-10",
-      "endDate": "2024-03-10",
+      "startDate": "Jan2024",
+      "endDate": "March2024",
       "summary": "",
       "highlights": [
         "Troubleshoot software and web content publishing issues over the phone",
@@ -93,8 +93,8 @@
       "organization": "Google Developer Student Club",
       "website": "https://gdsc.community.dev/university-at-buffalo-buffalo-united-states/",
       "position": "Professional organization involvement",
-      "startDate": "2022-09-10",
-      "endDate": "2024-02-10",
+      "startDate": "Sept2022",
+      "endDate": "Feb2024",
       "summary": "Implemented Google style guide for production code in IDEs for large scale department contribution in CI/CD projects.",
       "highlights": [
         
@@ -105,8 +105,8 @@
       "organization": "UB BlackStone LaunchPad",
       "website": "https://www.buffalo.edu/entrepreneurship/about/welcome.html",
       "position": "NGO volunteer for Technical - Innovation Sprint",
-      "startDate": "2022-10-15",
-      "endDate": "2023-10-10",
+      "startDate": "Oct2022",
+      "endDate": "Oct2023",
       "summary": "Develoeped data based solution to analyze patterns and extraxt statistical inferences from earthquake data. Recieved certificate award of 4th position for insightful data analysis.",
       "highlights": [        
         "Group Project Contributor, UB Blackstone LaunchPad, 2022-2024"
