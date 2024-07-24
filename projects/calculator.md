@@ -1,21 +1,19 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
-title: "Simple Arithemtic Calculator"
+image: img/micromouse/calcimage.png
+title: "Simple Arithmetic Calculator"
 date: 2024
 published: true
 labels:
   - OOPs programming
   - C++
   - VS Code IDE
-summary: "I developed an arithmatic calculator using OOPs concepts in C++ to automate day to day mathematical computations at workplace."
+summary: "I developed an arithmetic calculator using OOPs concepts in C++ to automate day-to-day mathematical computations at workplace."
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/micromouse/bandwcalc.png" class="img-thumbnail" >
 </div>
 
 **Arithematic Calculator in C++**
@@ -60,4 +58,4 @@ public:
 } obj;
 ```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+You can learn more about the source code of calculator in my GitHub repository at [Simple Arithmetic Calculator](https://github.com/vmantrip762000/arithematic-calculator).
