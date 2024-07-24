@@ -23,14 +23,33 @@
     { "name": "Competitive Programming" }
   ],
   "skills": [
+
+    {
+      "name": "Computer Science coursework",
+      "keywords": [ "Data Structures and Algorithms", "Computer Networks", "Software Development Life cycle", "Data Intesive computing", "RDBMS", 
+        "Linear Algebra", "Probability and Statistics" ]
+    }    
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "Probability and Statistics" ]
+      "keywords": [ "Bash and Shell", "Python", "JavaScript", "C++", "SQL", "Java" ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "OS",
       "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
     }
+    {
+      "name": "Dev-Ops Technologies",
+      "keywords": [ "Kubernetes", "Jenkins", "Terraform", "Docker", "AWS", "Angular", "JIRA", "GCP", "bitbucket", "GitHub"]
+    }
+    {
+      "name": "Fronted Technologies",
+      "keywords": [ "LaTeX", "HTML", "CSS", "JavaScript", "Angular" ]
+    }
+    {
+      "name": "Cloud and Web Frameworks",
+      "keywords": [ "AWS", "Azure", "Spring MVC", "Spring Boot", "Spring Cloud", "Django" ]
+    }
+    
   ],
   "education": [
     {
@@ -81,6 +100,37 @@
         
         "Member, Project Contributor, UB GDSC, 2022-2024"
       ]
+    }
+    {
+      "organization": "UB BlackStone LaunchPad",
+      "website": "https://www.buffalo.edu/entrepreneurship/about/welcome.html",
+      "position": "NGO volunteer for Technical - Innovation Sprint",
+      "startDate": "2022-10-15",
+      "endDate": "2023-10-10",
+      "summary": "Develoeped data based solution to analyze patterns and extraxt statistical inferences from earthquake data. Recieved certificate award of 4th position for insightful data analysis.",
+      "highlights": [        
+        "Group Project Contributor, UB Blackstone LaunchPad, 2022-2024"
+      ]
+    }
+  ],
+  "Personal Projects": [
+    {
+      "title": "Arithmetic Calculator",
+      "date": "2024",
+      "awarder": "C++, OOPs programmming, GitHub",
+      "summary": "Developed a calculator application in C++ utilizing OOPs principles to perform basic arithmetic operations."
+    },
+    {
+      "title": "Personal Portfolio in Ruby",
+      "year": "2024",
+      "awarder": "Ruby, CI/CD, JSON, Git, GitHub, LaTeX",
+      "summary": "Customized portfolio in Ruby, HTML and CSS for students and working professionals looking for career opportunities."
+    }
+    {
+      "title": "Infrastructure as Code (IaC) with Terraform - coursework project",
+      "year": "2023",
+      "awarder": "Python, Terraform, AWS Cloud, IAM users, Network diagrams, GitHub, ",
+      "summary": "Automated configuration of 6 EC2 instances according to network diagrams to reduce operation costs."
     }
   ],
   "awards": [
