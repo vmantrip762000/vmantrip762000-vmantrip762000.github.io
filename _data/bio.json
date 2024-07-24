@@ -67,8 +67,8 @@
       "company": "University at Buffalo - Institute for Artificial Intelligence",
       "position": "Apprentice Data Analyst",
       "website": "",
-      "startDate": "03/24",
-      "endDate": "06/24",
+      "startDate": "3/24",
+      "endDate": "6/24",
       "summary": "Created, analyzed and reported data based research and findings in AI tools surveys",
       "highlights": [
         "Maintain, update, and oversee official department website and database",
@@ -79,8 +79,8 @@
       "company": "Geeks for Geeks",
       "position": "Technical Content Writer",
       "website": "https://www.geeksforgeeks.org/charsetdecoder-class-in-java/?ref=gcse",
-      "startDate": "Jan2024",
-      "endDate": "March2024",
+      "startDate": "1/24",
+      "endDate": "3/24",
       "summary": "",
       "highlights": [
         "Troubleshoot software and web content publishing issues over the phone",
@@ -93,8 +93,8 @@
       "organization": "Google Developer Student Club",
       "website": "https://gdsc.community.dev/university-at-buffalo-buffalo-united-states/",
       "position": "Professional organization involvement",
-      "startDate": "Sept2022",
-      "endDate": "Feb2024",
+      "startDate": "",
+      "endDate": "",
       "summary": "Implemented Google style guide for production code in IDEs for large scale department contribution in CI/CD projects.",
       "highlights": [
         
@@ -105,8 +105,8 @@
       "organization": "UB BlackStone LaunchPad",
       "website": "https://www.buffalo.edu/entrepreneurship/about/welcome.html",
       "position": "NGO volunteer for Technical - Innovation Sprint",
-      "startDate": "Oct2022",
-      "endDate": "Oct2023",
+      "startDate": "",
+      "endDate": "",
       "summary": "Develoeped data based solution to analyze patterns and extraxt statistical inferences from earthquake data. Recieved certificate award of 4th position for insightful data analysis.",
       "highlights": [        
         "Group Project Contributor, UB Blackstone LaunchPad, 2022-2024"
@@ -136,7 +136,7 @@
   "awards": [
     {
       "title": "Bachelors with distinction",
-      "date": "2018-2022",
+      "date": "2022",
       "awarder": "Amrita University, Coimbatore",
       "summary": "Degree conferral to graduating batch of 2022 students who complete a rigorous high school curriculum with a minimum overall GPA of 3.4 at Amrita School of Engineering."
     },
