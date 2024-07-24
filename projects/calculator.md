@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
+title: "Simple Arithemtic Calculator"
 date: 2024
 published: true
 labels:
