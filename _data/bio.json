@@ -28,7 +28,7 @@
       "name": "Computer Science coursework",
       "keywords": [ "Data Structures and Algorithms", "Computer Networks", "Software Development Life cycle", "Data Intesive computing", "RDBMS", 
         "Linear Algebra", "Probability and Statistics" ]
-    }    
+    },    
     {
       "name": "Languages and Frameworks",
       "keywords": [ "Bash and Shell", "Python", "JavaScript", "C++", "SQL", "Java" ]
@@ -36,15 +36,15 @@
     {
       "name": "OS",
       "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
-    }
+    },
     {
       "name": "Dev-Ops Technologies",
       "keywords": [ "Kubernetes", "Jenkins", "Terraform", "Docker", "AWS", "Angular", "JIRA", "GCP", "bitbucket", "GitHub"]
-    }
+    },
     {
       "name": "Fronted Technologies",
       "keywords": [ "LaTeX", "HTML", "CSS", "JavaScript", "Angular" ]
-    }
+    },
     {
       "name": "Cloud and Web Frameworks",
       "keywords": [ "AWS", "Azure", "Spring MVC", "Spring Boot", "Spring Cloud", "Django" ]
@@ -100,7 +100,7 @@
         
         "Member, Project Contributor, UB GDSC, 2022-2024"
       ]
-    }
+    },
     {
       "organization": "UB BlackStone LaunchPad",
       "website": "https://www.buffalo.edu/entrepreneurship/about/welcome.html",
@@ -125,7 +125,7 @@
       "year": "2024",
       "awarder": "Ruby, CI/CD, JSON, Git, GitHub, LaTeX",
       "summary": "Customized portfolio in Ruby, HTML and CSS for students and working professionals looking for career opportunities."
-    }
+    },
     {
       "title": "Infrastructure as Code (IaC) with Terraform - coursework project",
       "year": "2023",
