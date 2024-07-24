@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/calcimage.png
+image: img/calcimage.png
 title: "Simple Arithmetic Calculator"
 date: 2024
 published: true
@@ -13,7 +13,7 @@ summary: "I developed an arithmetic calculator using OOPs concepts in C++ to aut
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/bandwcalc.png" class="img-thumbnail" >
+  <img width="200px" src="../img/bandwcalc.png" class="img-thumbnail" >
 </div>
 
 **Arithematic Calculator in C++**
