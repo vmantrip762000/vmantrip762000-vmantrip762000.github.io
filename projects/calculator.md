@@ -9,7 +9,7 @@ labels:
   - OOPs programming
   - C++
   - VS Code IDE
-summary: "I developed an arithmetic calculator using OOPs concepts in C++ to automate day-to-day mathematical computations at workplace."
+summary: "Designed an arithmetic calculator using OOP concepts in C++ to automate workplace computations."
 ---
 
 <div class="text-center p-4">
