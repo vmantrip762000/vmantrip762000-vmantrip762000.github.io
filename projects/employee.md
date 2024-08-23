@@ -19,17 +19,20 @@ summary: "Developed a Spring Boot application with Apache Maven."
 **Employee log book application**
 
 Project Description:
-Developed a feature-rich calculator application using C++ with a focus on Object-Oriented Programming (OOP) concepts. The application supports basic arithmetic operations including addition, subtraction, multiplication, and division, providing a dynamic and interactive user experience.
+Developed a Spring Boot application with Apache Maven build logging tasks.
 
 **Key Features and Functions**
-***User Input Handling***: Implemented robust methods to handle user inputs for values and operators, ensuring accurate and efficient data processing.
-getvalue1() and getvalue2(): Functions to capture floating-point values from the user.
-getOp(): Function to capture the operator and determine the required arithmetic operation or to terminate the program.
-***Arithmetic Operations***: Developed dedicated methods for each arithmetic operation to perform calculations and display results.
-add(): Adds two floating-point numbers and updates the result.
-sub(): Subtracts the second number from the first and updates the result.
-mul(): Multiplies two floating-point numbers and updates the result.
-divide(): Divides the first number by the second and updates the result.
+***MainController.java****: It handles HTTP requests related to user data, with key methods to create new users (addNewUser) and retrieve all users (getAllUsers).
+
+***User.java***: Used to represent a user entity, containing attributes like id, name, and email. It uses JPA annotations to define the entity and primary key.
+
+***UserRepository.java***: provides CRUD operations for user entities by extending CrudRepository, offering basic CRUD functionality.
+
+***application.properties***: configures Spring Boot application properties, including the application name (spring.application.name), database schema update behavior (spring.jpa.hibernate.ddl-auto), database connection URL (spring.datasource.url), database username and password (spring.datasource.username, spring.datasource.password), and JDBC driver class (spring.datasource.driver-class-name).
+
+***DemoApplicationTests.java***: is a basic test class that verifies application context loading with the contextLoads() method.
+
+***mvn/wrapper***: defines Maven wrapper configuration, specifying the wrapper version and distribution URL.
 
 **Outcome and Impact**
 Enhanced User Experience: The calculator provides real-time results and allows continuous operations without restarting the application.
@@ -58,4 +61,4 @@ public:
 } obj;
 ```
 
-You can learn more about the source code of calculator in my GitHub repository at [Simple Arithmetic Calculator](https://github.com/vmantrip762000/arithematic-calculator).
+You can learn more about the source code of employee log book CLI in my GitHub repository at [Simple Arithmetic Calculator](https://github.com/vmantrip762000/arithematic-calculator).
