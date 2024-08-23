@@ -57,4 +57,4 @@ public class User {
 }
 ```
 
-You can learn more about the source code of employee log book CLI in my GitHub repository at [Simple Arithmetic Calculator](https://github.com/vmantrip762000/arithematic-calculator).
+You can learn more about the source code of employee log book CLI in my GitHub repository at [Employee Log Book application](https://github.com/vmantrip762000/Springboot-management-application).
