@@ -35,11 +35,9 @@ Developed a Spring Boot application with Apache Maven build logging tasks.
 ***mvn/wrapper***: defines Maven wrapper configuration, specifying the wrapper version and distribution URL.
 
 **Outcome and Impact**
-Enhanced User Experience: The calculator provides real-time results and allows continuous operations without restarting the application.
-Modular and Scalable Design: The use of OOP principles ensures that the code is modular, maintainable, and easy to extend with additional features.
-Efficient Error Handling: Integrated error handling mechanisms to manage invalid inputs and prevent runtime errors, ensuring a smooth user experience.
+The Employee Log Book application, built with Spring Boot and Apache Maven, provides a scalable and efficient solution for managing employee data. Apache Maven streamlined development by managing dependencies and automating build tasks. The application leverages OOP principles and cloud-based data storage for efficient data management. API testing with Postman ensured reliability. Overall, the application delivers a valuable tool for managing employee information.
 
-Here is a code sample that illustrates the functions implemented in calculator application:
+Here is a code sample that illustrates the User class implemented in logbook application:
 
 ```java
 @Entity
