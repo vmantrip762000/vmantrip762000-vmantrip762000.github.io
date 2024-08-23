@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/calcimage.png
+image: img/logbook.png
 title: "Log book application"
 date: 2024
 published: true
@@ -13,7 +13,7 @@ summary: "Developed a Spring Boot application with Apache Maven."
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/bandwcalc.png" class="img-thumbnail" >
+  <img width="200px" src="../img/cli.png" class="img-thumbnail" >
 </div>
 
 **Employee log book application**
