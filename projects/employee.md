@@ -41,24 +41,22 @@ Efficient Error Handling: Integrated error handling mechanisms to manage invalid
 
 Here is a code sample that illustrates the functions implemented in calculator application:
 
-```cpp
-#include <iostream>
-using namespace std;
+```java
+@Entity
+public class User {
 
-class Calculator {
-public:
-    float a, b, c;
-    char op;
+  @Id
+  @GeneratedValue(strategy = GenerationType.IDENTITY)
+  private Integer id;
 
-    void add();
-    void sub();
-    void mul();
-    void divide();
+  private String name;
 
-    void getvalue1();
-    void getvalue2();
-    void getOp();
-} obj;
+  private String email;   
+
+
+  // Getters and setters omitted for brevity
+
+}
 ```
 
 You can learn more about the source code of employee log book CLI in my GitHub repository at [Simple Arithmetic Calculator](https://github.com/vmantrip762000/arithematic-calculator).
